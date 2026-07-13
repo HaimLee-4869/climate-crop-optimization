@@ -1,0 +1,12 @@
+검증,통과
+1a. y_hat 재예측 일치,True
+1b. 순이익 v 재계산 일치,True
+1c. 목적함수 손계산 일치 (6개 해),True
+1d. 전환비용 항 수동 검증,True
+2.  완전탐색 2^18 = per-county argmax,True
+3.  λ=0 에서 Greedy 상한 도달,True
+3b. 무릎 λ 에서 정확해 도달 (GA/SA/TS),True
+"4.  무작위 2,000개 전부 이김",True
+4b. 무조정 x̄ 보다 우수,True
+5.  무릎이 격자 선택에 견고 (18 vs 60),True
+5b. TS가 촘촘한 격자에서도 정확해 재현,True
