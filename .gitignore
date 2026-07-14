@@ -25,6 +25,7 @@ outputs/*
 !outputs/results/
 !outputs/corn_project_report.docx
 !outputs/corn_project_report_final.docx
+!outputs/ml_presentation_brief.md
 
 # ─────────────────────────────────────────────────────────────
 # Python
