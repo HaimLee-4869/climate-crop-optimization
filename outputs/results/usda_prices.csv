@@ -1,0 +1,4 @@
+﻿crop,crop_ko,year,region,price_usd_per_bu,opcost_usd_per_acre,price_units,cost_units,survey_base,source_file
+corn,옥수수,2025,U.S. total,3.93,440.11,dollars per bushel at harvest,dollars per planted acre,Base survey of 2021,CornCostReturn.csv
+soybean,대두,2025,U.S. total,9.76,244.8,dollars per bushel at harvest,dollars per planted acre,Base survey of 2023,SoybeanCostReturn.csv
+wheat,밀,2025,U.S. total,5.05,155.52,dollars per bushel at harvest,dollars per planted acre,Base survey of 2022,WheatCostReturn.csv
