@@ -274,6 +274,16 @@ corn-project/
 
 ---
 
+## 라이선스
+
+코드·노트북·문서는 **[MIT License](LICENSE)** 를 따릅니다.
+
+단, **데이터는 이 라이선스에 포함되지 않습니다.** ACDC 기후·토양·수확량 자료와 USDA ERS
+Commodity Costs and Returns는 이 저장소에 재배포되지 않으며, 각자의 이용 약관을 따릅니다.
+직접 내려받아 사용하세요 (위 [데이터 내려받기](#2-데이터-내려받기-별도-필요) 참조).
+
+---
+
 ## 참고문헌
 
 - Schlenker, W., & Roberts, M. J. (2009). Nonlinear temperature effects indicate severe damages to
